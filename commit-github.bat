@@ -6,7 +6,7 @@ git add .
 git commit -m "%commit_msg%"
 
 echo Pushing changes to GitHub...
-git push -u origin main
+git push -u origin master
 
 echo Done!
 pause
