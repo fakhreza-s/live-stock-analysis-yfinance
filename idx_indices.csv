@@ -1,0 +1,62 @@
+,code,description
+0,ISSI,Indeks yang mengukur kinerja harga seluruh saham di Papan Utama dan Papan Pengembangan yang dinyatakan sebagai saham syariah sesuai dengan Daftar Efek Syariah (DES) yang ditetapkan oleh Otoritas Jasa Keungan (OJK).
+1,IDX30,Indeks yang mengukur kinerja harga dari 30 saham yang memiliki likuiditas tinggi dan kapitalisasi pasar besar serta didukung oleh fundamental perusahaan yang baik.
+2,INFOBANK15,Indeks yang mengukur kinerja harga dari 15 saham perbankan yang memiliki faktor fundamental yang baik dan likuiditas perdagangan yang tinggi. Indeks infobank15 diluncurkan dan dikelola berkerja sama dengan perusahaan media PT Info Artha Pratama (penerbit Majalah Infobank).
+3,INVESTOR33,"Indeks yang mengukur kinerja harga dari 33 saham yang dipilih dari 100 (seratus) Perusahaan Tercatat terbaik versi Majalah Investor yang dipilih berdasarkan kapitalisasi pasar, likuiditas transaksi dan fundamental serta rasio keuangan. Indeks Investor33 diluncurkan dan dikelola berkerja sama dengan perusahaan media PT Media Investor Indonesia (penerbit Majalah Investor)."
+4,JII,Indeks yang mengukur kinerja harga dari 30 saham syariah yang memiliki kinerja keuangan yang baik dan likuiditas transaksi yang tinggi.
+5,DBX,Development Board Index (DBX)	
+6,LQ45,Indeks yang mengukur kinerja harga dari 45 saham yang memiliki likuiditas tinggi dan kapitalisasi pasar besar serta didukung oleh fundamental perusahaan yang baik.
+7,MNC36,"Indeks yang mengukur kinerja harga dari 36 saham yang memiliki kinerja positif yang dipilih berdasarkan kapitalisasi pasar, likuiditas transaksi, dan fundametal serta rasio keuangan. Indeks MNC36 diluncurkan dan dikelola berkerja sama dengan perusahaan media Media Nusantara Citra (MNC) Group."
+8,MBX,Main Board Index (MBX)	
+9,KOMPAS100,Indeks yang mengukur kinerja harga dari 100 saham yang memiliki likuiditas yang baik dan kapitalisasi pasar yang besar. Indeks KOMPAS100 diluncurkan dan dikelola berkerja sama dengan perusahaan media Kompas Gramedia Group (penerbit surat kabar harian Kompas).
+10,BISNIS-27,"Indeks yang mengukur kinerja harga dari 27 saham yang dipilih oleh Komite Indeks Bisnis Indonesia. Indeks BISNIS-27 diluncurkan dan dikelola berkerja sama dengan perusahaan media PT Jurnalindo Aksara Grafika (penerbit surat kabar harian Bisnis Indonesia).
+
+"
+11,IDX80,Indeks yang mengukur kinerja harga dari 80 saham yang memiliki likuiditas tinggi dan kapitalisasi pasar besar serta didukung oleh fundamental perusahaan yang baik.
+12,COMPOSITE,Indeks yang mengukur kinerja harga semua saham yang tercatat di Papan Utama dan Papan Pengembangan Bursa Efek Indonesia.
+13,IDXESGL,"Indeks yang mengukur kinerja harga dari saham-saham yang
+memiliki penilaian Environmental, Social, dan Governance (ESG)
+yang baik dan tidak terlibat pada kontroversi secara signifikan serta
+memiliki likuiditas transaksi serta kinerja keuangan yang baik.
+Penilaian ESG dan analisis kontroversi dilakukan oleh
+Sustainalytics."
+14,I-GRADE,ndeks yang mengukur kinerja harga dari 30 saham perusahaan tercatat yang memiliki peringkat investment grade dari PEFINDO (idAAA hingga idBBB-) yang berkapitalisasi pasar paling besar. Indeks PEFINDO i-Grade diluncurkan dan dikelola berkerja sama dengan perusahaan pemeringkat PT Pemeringkat Efek Indonesia (PEFINDO).
+15,IDXSMC-COM,Indeks yang mengukur kinerja harga dari saham-saham yang memiliki kapitalisasi pasar kecil dan menengah.
+16,JII70,Indeks yang mengukur kinerja harga dari 70 saham syariah yang memiliki kinerja keuangan yang baik dan likuiditas transaksi yang tinggi.
+17,IDXHIDIV20,Indeks yang mengukur kinerja harga dari 20 saham yang membagikan dividen tunai selama 3 tahun terakhir dan memiliki dividend yield yang tinggi.
+18,PEFINDO25,Indeks yang mengukur kinerja harga saham dari 25 perusahaan tercatat kecil dan menengah yang memiliki kinerja keuangan yang baik dan likuiditas transaksi yang tinggi. Indeks PEFINDO25 diluncurkan dan dikelola berkerja sama dengan perusahaan pemeringkat PT Pemeringkat Efek Indonesia (PEFINDO).
+19,IDXSMC-LIQ,Indeks yang mengukur kinerja harga dari saham-saham dengan likuiditas tinggi yang memiliki kapitalisasi pasar kecil dan menengah.
+20,SMINFRA18,"Indeks yang mengukur kinerja harga dari 18 saham yang konstituennya dipilih dari sektor­sektor infrastruktur, penunjang infrastruktur, dan pembiayaan infrastruktur (dari sektor perbankan) yang dipilih berdasarkan kriteria tertentu. Indeks SMinfra18 diluncurkan dan dikelola berkerja sama dengan PT Sarana Multi Infrastruktur (Persero) (SMI)."
+21,IDXBUMN20,"Indeks yang mengukur kinerja harga dari 20 saham perusahaan tercatat yang merupakan Badan Usaha Milik Negara (BUMN), Badan Usaha Milik Daerah (BUMD), dan afiliasinya.
+
+"
+22,IDXG30,"Indeks yang mengukur kinerja
+harga dari 30 saham yang
+memiliki tren pertumbuhan laba
+bersih dan pendapatan relatif
+terhadap harga dengan
+likuiditas transaksi serta kinerja
+keuangan yang baik."
+23,IDXV30,"Indeks yang mengukur kinerja
+harga dari 30 saham yang
+memiliki valuasi harga yang
+rendah dengan likuiditas
+transaksi serta kinerja keuangan
+yang baik."
+24,IDXQ30,"Indeks yang mengukur kinerja harga dari 30 saham yang secara
+historis perusahaan relatif memiliki profitabilitas tinggi, solvabilitas
+baik, dan pertumbuhan laba stabil dengan likuiditas transaksi serta
+kinerja keuangan yang baik."
+25,IDXMESBUMN,"Indeks yang mengukur kinerja harga dari 17 saham syariah yang
+merupakan Badan Usaha Milik Negara (BUMN) dan afiliasinya
+yang memiliki likuiditas baik dan kapitalisasi pasar besar serta
+didukung oleh fundamental perusahaan yang baik."
+26,SRI-KEHATI,"Indeks yang berisikan 25 saham terbaik dari hasil penilaian kinerja
+ESG dan memiliki likuiditas yang baik."
+27,ESGSKEHATI,"Indeks yang berisikan saham-saham dengan hasil penilaian kinerja
+ESG di atas rata-rata sektornya serta memiliki likuiditas yang baik.
+Klasifikasi industri mengacu kepada IDX Industrial Classification
+(IDX-IC)."
+28,ESGQKEHATI,"Indeks yang berisikan 45 saham terbaik dari hasil penilaian kinerja
+ESG dan kualitas keuangan perusahaan serta memiliki likuiditas
+yang baik."
