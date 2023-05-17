@@ -1,0 +1,1 @@
+python -i stock_list_classification_technical.py
